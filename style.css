@@ -87,6 +87,12 @@ section ul li a:hover {
     color: #8f2f68; /* version un peu plus foncée au survol */
 }
 
+.non-centree {
+    text-align: left;
+    margin: 0 auto;
+    width: 80%;
+}
+
 footer {
     background-color: #ffa6cb;
     padding: 15px;
