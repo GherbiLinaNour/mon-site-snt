@@ -89,9 +89,14 @@ section ul li a:hover {
 
 .non-centree {
     text-align: left;
-    margin: 0 auto;
     width: 80%;
+    margin: 0 auto 30px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
 
 footer {
     background-color: #ffa6cb;
